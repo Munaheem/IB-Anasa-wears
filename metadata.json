@@ -1,0 +1,6 @@
+{
+  "name": "IB ANASA WEARS — Luxury Fashion & Admin",
+  "description": "Luxury fashion store and admin portal with dynamic Zara-inspired catalog, shopping bag with WhatsApp checkout, vertical PDP art-book, and secure admin panel with Google SSO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

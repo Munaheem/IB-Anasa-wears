@@ -1,0 +1,1151 @@
+{
+  "products": [
+    {
+      "name": "Essentials Oversized Street Shirt",
+      "category": "shirts",
+      "price": 35000,
+      "images": [
+        "/images/essentials polo.jpg"
+      ],
+      "description": "Heavyweight drop-shoulder silhouette cut from 260 GSM organic combed cotton with raw architectural seams.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "S",
+          "price": 35000,
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "price": 35000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 35000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 35000,
+          "stock": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Balenciaga Camo Slim Jean",
+      "category": "trousers",
+      "price": 120000,
+      "images": [
+        "/images/balenciaga camo pants.jpg"
+      ],
+      "description": "Sculptural Japanese selvedge denim featuring hand-distressed military wash accents and signature branded matte hardware.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "30",
+          "price": 120000,
+          "stock": 10
+        },
+        {
+          "size": "32",
+          "price": 120000,
+          "stock": 10
+        },
+        {
+          "size": "34",
+          "price": 120000,
+          "stock": 10
+        },
+        {
+          "size": "36",
+          "price": 120000,
+          "stock": 10
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "BAPE Shark Full-Zip Fleece Hoodie",
+      "category": "hoodies",
+      "price": 95000,
+      "images": [
+        "/images/shark hoodie.jpg"
+      ],
+      "description": "Iconic double-hood full-zip statement piece engineered with high-density jacquard patches and fleece backing.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 95000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 95000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 95000,
+          "stock": 10
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Nike Air Force 1 '07 Luxe White",
+      "category": "shoes",
+      "price": 75000,
+      "images": [
+        "/images/white nike airforce 1 '07.jpg"
+      ],
+      "description": "Pristine triple-white tumbled calfskin leather with encapsulated Air sole cushioning and perforated vamp.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 75000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 75000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 75000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 75000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 75000,
+          "stock": 10
+        },
+        {
+          "size": "45",
+          "price": 75000,
+          "stock": 10
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Ralph Lauren Custom Slim Polo",
+      "category": "shirts",
+      "price": 45000,
+      "images": [
+        "/images/ralph and lauren.jpg"
+      ],
+      "description": "Heritage breathable cotton mesh polo with mother-of-pearl buttons and signature tonal embroidery.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 45000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 45000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 45000,
+          "stock": 10
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Numeris Handcrafted Leather Brogue",
+      "category": "shoes",
+      "price": 85000,
+      "images": [
+        "/images/numeris.jpg"
+      ],
+      "description": "Goodyear welted Italian crust leather dress shoes with burnished toe box and waxed laces.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 85000,
+          "stock": 10
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Stone Island Raw Linen Overshirt",
+      "category": "shirts",
+      "price": 60000,
+      "images": [
+        "/images/stone island overshirt.jpg"
+      ],
+      "description": "Garment-dyed structured utility shirt featuring chest bellow pockets and detachable signature compass badge.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 60000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 60000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 60000,
+          "stock": 10
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Gucci GG Supreme Monogram Canvas Cap",
+      "category": "caps",
+      "price": 65000,
+      "images": [
+        "/images/gucci cap.jpg"
+      ],
+      "description": "Classic baseball hat in beige/ebony GG Supreme canvas with adjustable calfskin hook-and-loop closure.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 65000,
+          "stock": 10
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Amiri Paint-Splatter Cargo Trouser",
+      "category": "trousers",
+      "price": 95000,
+      "images": [
+        "/images/Amiri complete.jpg"
+      ],
+      "description": "Multi-pocket utilitarian trousers with hand-applied artisanal paint details and toggle cuff adjusters.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "30",
+          "price": 95000,
+          "stock": 10
+        },
+        {
+          "size": "32",
+          "price": 95000,
+          "stock": 10
+        },
+        {
+          "size": "34",
+          "price": 95000,
+          "stock": 10
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Air Jordan 4 Retro Military Black",
+      "category": "shoes",
+      "price": 110000,
+      "images": [
+        "/images/air jordan 4 retro.jpg"
+      ],
+      "description": "High top court classic rendered in smooth white leather with neutral grey suede forefoot overlays.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "41",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 110000,
+          "stock": 10
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Nike Tech Fleece Tactical Short",
+      "category": "shorts",
+      "price": 32000,
+      "images": [
+        "/images/nike shorts.jpg"
+      ],
+      "description": "Lightweight double-sided spacer fleece designed for premium warmth without added bulk.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 32000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 32000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 32000,
+          "stock": 10
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Ferragamo Gancini Reversible Leather Belt",
+      "category": "belts",
+      "price": 42000,
+      "images": [
+        "/images/ferragamo belt.jpg"
+      ],
+      "description": "Dual-tone reversible calfskin belt fastened by an antique palladium-finish iconic double Gancini buckle.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size (110cm)",
+          "price": 42000,
+          "stock": 10
+        },
+        {
+          "size": "One Size (120cm)",
+          "price": 42000,
+          "stock": 10
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "Louis Vuitton Keepall Bandoulière 50",
+      "category": "bags",
+      "price": 180000,
+      "images": [
+        "/images/luois vuitton duffel bag.jpg"
+      ],
+      "description": "Monogram Eclipse coated canvas travel duffle bag with black cowhide leather trim and silver padlock.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size (50cm)",
+          "price": 180000,
+          "stock": 10
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "Adidas Adilette Comfort Slides Black",
+      "category": "slides",
+      "price": 18000,
+      "images": [
+        "/images/nike pool slides.jpg"
+      ],
+      "description": "Contoured Cloudfoam Plus footbed for superior pillow-soft cushioning with 3-Stripes bandage upper.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 18000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 18000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 18000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 18000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 18000,
+          "stock": 10
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "Essentials Pullover Hoodie",
+      "category": "hoodies",
+      "price": 85000,
+      "images": [
+        "/images/essentials hoodie.jpg"
+      ],
+      "description": "Minimal heavyweight fleece hoodie with a relaxed streetwear silhouette.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 85000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 85000,
+          "stock": 10
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "Adidas Statement Hoodie",
+      "category": "hoodies",
+      "price": 70000,
+      "images": [
+        "/images/adidas hoodie.jpg"
+      ],
+      "description": "Sport-inspired hooded layer with a clean everyday fit.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 70000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 70000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 70000,
+          "stock": 10
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "Balenciaga Tailored Trouser",
+      "category": "trousers",
+      "price": 110000,
+      "images": [
+        "/images/balenciaga pants.jpg"
+      ],
+      "description": "Relaxed luxury trouser with a structured drape and refined finish.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "30",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "32",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "34",
+          "price": 110000,
+          "stock": 10
+        },
+        {
+          "size": "36",
+          "price": 110000,
+          "stock": 10
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "Balenciaga Court Sneaker",
+      "category": "shoes",
+      "price": 105000,
+      "images": [
+        "/images/balenciaga shoe.jpg"
+      ],
+      "description": "Low-profile statement sneaker with layered panel construction.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 105000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 105000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 105000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 105000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 105000,
+          "stock": 10
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "Balenciaga Logo Slides",
+      "category": "slides",
+      "price": 38000,
+      "images": [
+        "/images/balenciaga slide.jpg"
+      ],
+      "description": "Luxury everyday slides with a sculpted comfort footbed.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 38000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 38000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 38000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 38000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 38000,
+          "stock": 10
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "Dior Leather Belt",
+      "category": "belts",
+      "price": 50000,
+      "images": [
+        "/images/dior belt.jpg"
+      ],
+      "description": "Polished leather belt finished with a signature fashion-house buckle.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size (110cm)",
+          "price": 50000,
+          "stock": 10
+        },
+        {
+          "size": "One Size (120cm)",
+          "price": 50000,
+          "stock": 10
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "Gucci Reversible Leather Belt",
+      "category": "belts",
+      "price": 48000,
+      "images": [
+        "/images/gucci belt.jpg"
+      ],
+      "description": "Reversible leather belt with a refined branded buckle.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size (110cm)",
+          "price": 48000,
+          "stock": 10
+        },
+        {
+          "size": "One Size (120cm)",
+          "price": 48000,
+          "stock": 10
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "Gucci Crossbody Bag",
+      "category": "bags",
+      "price": 125000,
+      "images": [
+        "/images/gucci cross bag.jpg"
+      ],
+      "description": "Compact crossbody bag designed for hands-free daily carry.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 125000,
+          "stock": 10
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "Louis Vuitton Backpack",
+      "category": "bags",
+      "price": 195000,
+      "images": [
+        "/images/lv backbag.jpg"
+      ],
+      "description": "Structured monogram backpack with practical multi-pocket storage.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 195000,
+          "stock": 10
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "New Balance 550",
+      "category": "shoes",
+      "price": 80000,
+      "images": [
+        "/images/new balance 550.jpg"
+      ],
+      "description": "Classic low-top basketball silhouette with clean retro detailing.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 80000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 80000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 80000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 80000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 80000,
+          "stock": 10
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "Nike SB Dunk Low Pro",
+      "category": "shoes",
+      "price": 72000,
+      "images": [
+        "/images/nike sb.jpg"
+      ],
+      "description": "Versatile Nike trainer built for everyday movement.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 72000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 72000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 72000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 72000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 72000,
+          "stock": 10
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "Palm Angels Signature Short",
+      "category": "shorts",
+      "price": 45000,
+      "images": [
+        "/images/palm angels shorts.jpg"
+      ],
+      "description": "Relaxed graphic short with a premium streetwear finish.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 45000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 45000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 45000,
+          "stock": 10
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "Adidas Samba Classic",
+      "category": "shoes",
+      "price": 65000,
+      "images": [
+        "/images/adidas samba.jpg"
+      ],
+      "description": "Timeless low-profile terrace sneaker with a gum sole.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "40",
+          "price": 65000,
+          "stock": 10
+        },
+        {
+          "size": "41",
+          "price": 65000,
+          "stock": 10
+        },
+        {
+          "size": "42",
+          "price": 65000,
+          "stock": 10
+        },
+        {
+          "size": "43",
+          "price": 65000,
+          "stock": 10
+        },
+        {
+          "size": "44",
+          "price": 65000,
+          "stock": 10
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "Supreme Signature Cap",
+      "category": "caps",
+      "price": 35000,
+      "images": [
+        "/images/supreme cap.jpg"
+      ],
+      "description": "Structured six-panel cap with an unmistakable streetwear identity.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 35000,
+          "stock": 10
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "Zara Chino Trouser",
+      "category": "trousers",
+      "price": 30000,
+      "images": [
+        "/images/zara chino.jpg"
+      ],
+      "description": "Clean-cut chino trouser for polished everyday dressing.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "30",
+          "price": 30000,
+          "stock": 10
+        },
+        {
+          "size": "32",
+          "price": 30000,
+          "stock": 10
+        },
+        {
+          "size": "34",
+          "price": 30000,
+          "stock": 10
+        },
+        {
+          "size": "36",
+          "price": 30000,
+          "stock": 10
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "Lacoste Structured Bag",
+      "category": "bags",
+      "price": 75000,
+      "images": [
+        "/images/lacoste bag.jpg"
+      ],
+      "description": "Compact structured bag with a refined sport-luxury profile.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 75000,
+          "stock": 10
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "Essentials Logo Cap",
+      "category": "caps",
+      "price": 28000,
+      "images": [
+        "/images/essentials cap.jpg"
+      ],
+      "description": "Minimal six-panel cap with a versatile everyday fit.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 28000,
+          "stock": 10
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "Essentials Logo Jogger",
+      "category": "trousers",
+      "price": 55000,
+      "images": [
+        "/images/essentials joggers.jpg"
+      ],
+      "description": "Comfort-first jogger with a clean tapered silhouette.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "M",
+          "price": 55000,
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": 55000,
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "price": 55000,
+          "stock": 10
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "Lacoste Bross-body Bag",
+      "category": "bags",
+      "price": 45000,
+      "images": [
+        "/images/lacoste cross bag.jpg"
+      ],
+      "description": "Compact structured bag with a refined sport-luxury profile.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 45000,
+          "stock": 10
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "Louis Vuitton Back Bag",
+      "category": "bags",
+      "price": 85000,
+      "images": [
+        "/images/lv backbag 3.jpg"
+      ],
+      "description": "Compact structured bag with a refined sport-luxury profile.",
+      "status": "active",
+      "featured": false,
+      "new_arrival": false,
+      "variants": [
+        {
+          "size": "One Size",
+          "price": 85000,
+          "stock": 10
+        }
+      ],
+      "id": 34
+    }
+  ],
+  "orders": [
+    {
+      "customer": {
+        "name": "Oloro Idris",
+        "email": null,
+        "phone": "0803 210 4456"
+      },
+      "delivery": {
+        "label": "Home",
+        "line1": "",
+        "city": "",
+        "state": "",
+        "country": "Nigeria"
+      },
+      "items": [],
+      "subtotal": 0,
+      "delivery_fee": 0,
+      "total": 95000,
+      "currency": "NGN",
+      "payment_status": "paid",
+      "order_status": "pending",
+      "payment_reference": null,
+      "created_at": "2026-08-26T00:00:00.000Z",
+      "updated_at": null
+    },
+    {
+      "customer": {
+        "name": "Bidex",
+        "email": null,
+        "phone": "0805 990 1123"
+      },
+      "delivery": {
+        "label": "Home",
+        "line1": "",
+        "city": "",
+        "state": "",
+        "country": "Nigeria"
+      },
+      "items": [],
+      "subtotal": 0,
+      "delivery_fee": 0,
+      "total": 195000,
+      "currency": "NGN",
+      "payment_status": "paid",
+      "order_status": "pending",
+      "payment_reference": null,
+      "created_at": "2026-08-25T00:00:00.000Z",
+      "updated_at": null
+    },
+    {
+      "customer": {
+        "name": "Karen Imhana",
+        "email": null,
+        "phone": "0706 442 7781"
+      },
+      "delivery": {
+        "label": "Home",
+        "line1": "",
+        "city": "",
+        "state": "",
+        "country": "Nigeria"
+      },
+      "items": [],
+      "subtotal": 0,
+      "delivery_fee": 0,
+      "total": 75000,
+      "currency": "NGN",
+      "payment_status": "pending",
+      "order_status": "pending",
+      "payment_reference": null,
+      "created_at": "2026-08-25T00:00:00.000Z",
+      "updated_at": null
+    },
+    {
+      "customer": {
+        "name": "Eberechi Eze",
+        "email": null,
+        "phone": "0812 884 1290"
+      },
+      "delivery": {
+        "label": "Home",
+        "line1": "",
+        "city": "",
+        "state": "",
+        "country": "Nigeria"
+      },
+      "items": [],
+      "subtotal": 0,
+      "delivery_fee": 0,
+      "total": 240000,
+      "currency": "NGN",
+      "payment_status": "paid",
+      "order_status": "pending",
+      "payment_reference": null,
+      "created_at": "2026-08-24T00:00:00.000Z",
+      "updated_at": null
+    },
+    {
+      "customer": {
+        "name": "Davido Adeleke",
+        "email": null,
+        "phone": "0901 332 9901"
+      },
+      "delivery": {
+        "label": "Home",
+        "line1": "",
+        "city": "",
+        "state": "",
+        "country": "Nigeria"
+      },
+      "items": [],
+      "subtotal": 0,
+      "delivery_fee": 0,
+      "total": 60000,
+      "currency": "NGN",
+      "payment_status": "paid",
+      "order_status": "pending",
+      "payment_reference": null,
+      "created_at": "2026-08-24T00:00:00.000Z",
+      "updated_at": null
+    }
+  ]
+}
